@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-25)
+## Unreleased (2024-12-01)
 
 <section class="features">
 
@@ -48,7 +48,7 @@ This release closes the following issue:
 
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
--   Abhijit
+-   Abhijit Raut
 -   Athan Reines
 -   Vinit Pandit
 
