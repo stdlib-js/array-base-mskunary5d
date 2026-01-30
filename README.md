@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mskunary5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary5d@deno/mod.js';
+import mskunary5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary5d@v0.1.0-deno/mod.js';
 ```
 
 #### mskunary5d( arrays, shape, fcn )
@@ -101,7 +101,7 @@ var bernoulli = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bern
 import filled5dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled5d-by@deno/mod.js';
 import zeros5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros5d@deno/mod.js';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@deno/mod.js';
-import mskunary5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary5d@deno/mod.js';
+import mskunary5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary5d@v0.1.0-deno/mod.js';
 
 var shape = [ 1, 2, 2, 3, 3 ];
 
